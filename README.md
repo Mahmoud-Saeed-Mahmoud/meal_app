@@ -1,5 +1,6 @@
-# meal_app
+# Packages used in this app
 
-
-## Getting Started
-
+### - flutter_colorpicker
+### - flutter_launcher_icons
+### - provider
+### - shared_preferences
